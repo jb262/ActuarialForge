@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ActuarialForge.EconomicRegister/ActuarialForge.EconomicRegister.csproj" />
+  <Project Path="ActuarialForge.Primitives/ActuarialForge.Primitives.csproj" />
+  <Project Path="ActuarialForge.Reserving/ActuarialForge.Reserving.csproj" Id="8a53a0c8-6367-4dc2-8097-78212c7dd291" />
+  <Project Path="ActuarialForge.Utils/ActuarialForge.Utils.csproj" Id="323c730f-162d-4c2b-8b80-52f7f7c00cd3" />
+  <Project Path="ActuarialForge.Valuation/ActuarialForge.Valuation.csproj" />
+</Solution>
