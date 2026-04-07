@@ -181,15 +181,6 @@ You can easily add:
 
 ---
 
-## Roadmap
-
-- Mack method
-- Bootstrap approaches
-- Stochastic reserving
-- Additional validation diagnostics
-
----
-
 ## Contributing
 
 Contributions are welcome.  
@@ -204,14 +195,6 @@ Please ensure:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## Final Note
-
-ActuarialForge is built with a simple idea:
-
-> Actuarial models should be explicit, testable, and composable — not hidden in spreadsheets.
 
 ---
 
